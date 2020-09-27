@@ -1,7 +1,7 @@
 
 
 public struct Greeting {
-    var text = "Hello, World!"
+    public var text = "Hello, World!"
     
     public init() {}
     
